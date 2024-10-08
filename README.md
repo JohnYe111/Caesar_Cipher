@@ -1,1 +1,1 @@
-The Odin Proejct: Caesar Cipher
+The Odin Proejct: Basic Ruby Projects
